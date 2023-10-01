@@ -28,6 +28,8 @@ header {
 
 .navbar-nav {
     text-align: center; 
+    font-size: 16px;
+    font-family: Arial, sans-serif;
 }
 
 .nav-link {
@@ -38,7 +40,9 @@ header {
 
 
 main {
-    margin-top: 100px; 
+    background-color: black;
+    color: white;
+    height: 100vh;; 
 }
 
 
